@@ -18,7 +18,7 @@ start_time: ''
 title: Session 4
 uid: 236eaec2-32db-82dc-131d-aed39eb32792
 video_files:
-  archive_url: http://www.archive.org/download/MIT24.261F04/mit-ocw-24.261-singer-27sep2004-220k.mp4
+  archive_url: ''
   video_captions_file: null
   video_thumbnail_file: https://img.youtube.com/vi/FF4LeK2D0co/default.jpg
   video_transcript_file: null

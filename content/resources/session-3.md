@@ -18,7 +18,7 @@ start_time: ''
 title: Session 3
 uid: fe450692-3fd1-7f33-2e6f-19f8603b39a6
 video_files:
-  archive_url: http://www.archive.org/download/MIT24.261F04/mit-ocw-24.261-singer-22nov2004-220k.mp4
+  archive_url: ''
   video_captions_file: null
   video_thumbnail_file: https://img.youtube.com/vi/K6jxuRHGVCQ/default.jpg
   video_transcript_file: null
